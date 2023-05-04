@@ -1,6 +1,6 @@
-# Discription
+# Description
 
-Rhodes is a Config manager writen in `rust` for `python`. This package can be used to load a `yaml` or `json` config file. using `rhodes.load('path/to/file.<yaml/yml/json>)`, This method returns a `dict` datatype in python.
+Rhodes is a Config manager writen in `rust` for `python`. This package can be used to load a `yaml` or `json` config file, using `rhodes.load('path/to/file.<yaml/yml/json>)`, This method returns a `dict` datatype in python.
 
 # Limitation
 
